@@ -43,12 +43,12 @@ dataset = version.download("yolo26")
 
 ```
 
-## Setup and Run Instructions
-
 ### Install Required Libraries
 
+Install all required dependencies using the `requirements.txt` file:
+
 ```bash
-pip install roboflow ultralytics
+pip install -r requirements.txt
 ```
 
 ## Steps to Run the Project
